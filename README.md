@@ -26,3 +26,5 @@ Preview and develop the documentation with.
 ```bash
 npm run docs:dev
 ```
+
+Update the `config.mts` file in `docs/.vitepress` to add menu entries for new pages to the sidebar

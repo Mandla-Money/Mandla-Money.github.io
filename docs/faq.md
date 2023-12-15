@@ -87,6 +87,3 @@ operation is the ideal.
 
 We have not yet run a pilot. Mainly demos and Q&amp;A’s such as the list of questions you have provided.
 
-<br/>
-
-<div style="page-break-after: always;"></div>

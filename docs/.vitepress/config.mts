@@ -17,6 +17,7 @@ export default defineConfig({
         base: '/wallet',
         items: [
           {text: 'Wallet Overview', link: '/intro'},
+          {text: 'Wallet General Info', link: '/general'},
           {text: 'Wallet Setup and Usage', link: '/setup'},
           {text: 'Wallet Commands', link: '/commands'},
           {text: 'Troubleshooting', link: '/troubleshooting'},
