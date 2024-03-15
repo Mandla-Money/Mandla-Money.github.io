@@ -1,4 +1,4 @@
-# XRPL DEX Liquidity Dashboard
+# XRPL DEX Liquidity
 
 ## General Overview
 

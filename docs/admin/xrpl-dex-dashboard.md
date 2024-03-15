@@ -1,4 +1,4 @@
-# XRPL DEX Dashboard
+# XRPL DEX
 
 ## General Overview
 

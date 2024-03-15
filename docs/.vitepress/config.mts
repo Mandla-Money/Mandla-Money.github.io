@@ -29,10 +29,10 @@ export default defineConfig({
         base: '/admin',
         items: [
           {text: 'Admin Overview', link: '/intro'},
-          {text: 'User Statistics Dashboard', link: '/user-statistics-dashboard'},
-          {text: 'XRPL Operations Dashboard', link: '/xrpl-operations-dashboard'},
-          {text: 'XRPL DEX Dashboard', link: '/xrpl-dex-dashboard'},
-          {text: 'XRPL DEX Liquidity Dashboard', link: '/xrpl-dex-liquidity-dashboard'}
+          {text: 'User Statistics', link: '/user-statistics-dashboard'},
+          {text: 'XRPL Operations', link: '/xrpl-operations-dashboard'},
+          {text: 'XRPL DEX', link: '/xrpl-dex-dashboard'},
+          {text: 'XRPL DEX Liquidity', link: '/xrpl-dex-liquidity-dashboard'}
         ]
       },
       {
