@@ -13,7 +13,7 @@ hero:
     - theme: alt
       text: Docs
       link: /wallet/intro
-  image: /award.png
+  image: /img/award.png
 
 features:
   - title: Mandla SMS Wallet

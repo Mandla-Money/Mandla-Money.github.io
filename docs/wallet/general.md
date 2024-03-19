@@ -36,7 +36,7 @@ Mandla Wallet is built using a Django webserver hosted on Heroku. The XRPL libra
 The user is required to initialise their wallet which connects them to the Mandla Wallet server through the online SMS gateway. Each user has a unique "tag" identified by their cell number. The user then can send specific commands using SMS which are then transferred to the Mandla Wallet webserver.
 
 
-![Architecture](/images_mwoverview/Architecture_diagram.jpg)
+![Architecture](/img/wallet/overview/Architecture_diagram.jpg)
 
 <br/>
 
@@ -63,7 +63,7 @@ There are two types of payment flows that the Mandla SMS Wallet supports:
 
 <br/>
 
-![process flow](/images_mwoverview/process_flow.jpg)
+![process flow](/img/wallet/overview/process_flow.jpg)
 
 <br/>
 
@@ -75,7 +75,7 @@ Mandla wallet has a central custody account identified with "rBBFeyRk19orSKU8k9J
 
 <br/>
 
-![XRPL tags](/images_mwoverview/XRPL_tags.jpg)
+![XRPL tags](/img/wallet/overview/XRPL_tags.jpg)
 
 <br/>
 
@@ -85,4 +85,4 @@ The conversion between physical cash and a digital asset on the XRP Ledger occur
 
 <br/>
 
-![cash flow](/images_mwoverview/Cash_flow.jpg)
+![cash flow](/img/wallet/overview/Cash_flow.jpg)

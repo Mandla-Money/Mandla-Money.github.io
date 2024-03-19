@@ -1,10 +1,13 @@
 # XRPL DEX Liquidity
 
-## General Overview
+<hr>
 
-The Liquidity dashboard is a market making feature that allows one to create bids and asks on the DEX. The logic places a series of buy and sell orders at different price levels to provide liquidity for a chosen token (eg USD) in exchange for XRP. The logic calculates the ask and bid prices based on the exchange rate and percentage interval.
+The DEX Liquidity dashboard is a market making feature that allows one to create bids and asks on the DEX. The logic places a series of buy and sell orders at different price levels to provide liquidity for a chosen token (eg USD) in exchange for XRP. The logic calculates the ask and bid prices based on the exchange rate and percentage interval.
 
-## How to use the DEX Liquidity interface
+
+## DEX Liquidity dashboard usage
+
+![DEX Liquidity](/img/dashboard/xrpl-dex-liquidity/dex_liquidity.png)
 
 To place bid and ask orders enter the following information:
 
@@ -16,5 +19,5 @@ To place bid and ask orders enter the following information:
 6. `Interval` The percentage change in price between each step. `20`
 7. Then click the **Create Orders** button.
 
-![DEX Liquidity](/images_dex_liquidity/dex_liquidity.png)
+
 

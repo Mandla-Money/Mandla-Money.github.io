@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Mandla Money",
-  description: "Digital wallet",
+  title: "Mandla Money Wallet",
+  description: "Mandla Money digital wallet",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -25,14 +25,30 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Mandla Wallet Admin',
+        text: 'Mandla Dashboard',
         base: '/admin',
         items: [
-          {text: 'Admin Overview', link: '/intro'},
-          {text: 'User Statistics', link: '/user-statistics-dashboard'},
-          {text: 'XRPL Operations', link: '/xrpl-operations-dashboard'},
-          {text: 'XRPL DEX', link: '/xrpl-dex-dashboard'},
-          {text: 'XRPL DEX Liquidity', link: '/xrpl-dex-liquidity-dashboard'}
+          {text: 'Overview', link: '/intro'},
+          {text: 'Admin Menu', link: '/admin-menu'},
+          {text: 'User Stats', link: '/user-stats'},
+          {text: 'XRPL Operations', link: '/xrpl-operations'},
+          {
+            text: 'XRPL DEX',
+            base: '/admin/dex',
+            items: [
+              {text: 'XRPL DEX', link: '/xrpl-dex'},
+              {text: 'XRPL DEX Liquidity', link: '/xrpl-dex-liquidity'}
+            ]
+          },
+          {
+            text: 'Asset Limits',
+            base: '/admin/asset-limits',
+            items: [
+              {text: 'Configuration', link: '/configuration'},
+              {text: 'Notifications', link: '/notifications'},
+            ]
+          }
+
         ]
       },
       {
