@@ -63,7 +63,7 @@ There are two types of payment flows that the Mandla SMS Wallet supports:
 
 <br/>
 
-![process flow](/img/wallet/overview/process_flow.jpg)
+![process flow](/img/wallet/overview/process-flow-with-whatsapp.png)
 
 <br/>
 
