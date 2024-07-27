@@ -5,13 +5,12 @@
 
 | Commands               | Function                                                                                                          |
 |------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Initialise wallet      | Send an SMS with the message "Hello Mandla" to initialise the wallet                                              | 
+| Initialise wallet      | Send a message "Hello Mandla" to initialise the wallet                                                            | 
 | Register/Create Wallet | Use the command "Register" to create a new wallet                                                                 |
 | Activate Wallet        | If you receive funds and your wallet is automatically created, use the command "Activate" to activate your wallet |
 | Check Wallet Balance   | Send an SMS with the command "Balance" to check your wallet balance                                               |
 | Activate Help          | Send an SMS with the command "Help" to activate the help functionality                                            |
 
-<br/>
 
 
 ## Sending / Receiving / Withdrawing Funds
@@ -34,7 +33,6 @@ The process of transferring and withdrawing funds using a Mandla Wallet can be e
 **Tag**: Each user of the Mandla wallet is assigned an XRP tag that is unique to their cell number. This tag is used to transfer/receive or withdraw funds. __A CELL NUMBER can also be used in place of a user tag__
 :::
 
-<br/>
 
 
 ## Get Help
@@ -44,5 +42,3 @@ Use the relevant "HELP" commands mentioned in this section to receive instructio
 * `HELP SEND` - help on sending assets
 * `HELP RECEIVE` - help on receiving assets
 * `HELP WITHDRAW` - help on withdrawing assets
-
-<br/>

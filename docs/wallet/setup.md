@@ -2,33 +2,37 @@
 
 ## Requirements
 
-To use Mandla Money SMS Wallet, please ensure that you have the following:
+The Mandla Wallet can be accessed via **Whatsapp** or **SMS**
+
+To use **Mandla SMS Wallet**, please ensure that you have the following:
 
 * **Device Requirements:** Compatible with any mobile phone that supports SMS messaging.
 
 * **Geographic Compatibility:**  Mandla Wallet is accessible through SMS in South Africa, United Kingdom, United States, and Australia.
 
-<br/>
+To use **Mandla Whatsapp Wallet**, please ensure that you have WhatsApp installed on your mobile phone.
+
 
 ## Getting Started
 
-Mandla Money SMS Wallet (Mandla Wallet) is a digital wallet that enables users to receive, transact, and store value using digital assets via SMS, without the need for a smartphone or an internet connection. It allows you to send and receive payments similar to using Apple Pay over text messages, with the XRP Ledger as the payment rail. For more information, visit  https://mandla.money.
+Mandla Wallet is a digital wallet that enables users to receive, transact, and store value using digital assets via SMS, without the need for a smartphone or an internet connection or via WhatsApp. It allows you to send and receive payments similar to using Apple Pay over text messages, with the XRP Ledger as the payment rail. For more information, visit  https://mandla.money.
 
 Depending on your location, follow these steps to get started:
 
-* South Africa: SMS "Hello Mandla" to +27600178563.
-* United Kingdom: SMS "Hello Mandla" to +44 7458 157486.
-* United States: SMS "Hello Mandla" to +1 743 239 2972.
-* Australia: SMS "Hello Mandla" to +61 483 908 552.
+* South Africa: SMS "Hello Mandla" to **+27600410476**
+* United Kingdom: SMS "Hello Mandla" to **+44 7458 157486**
+* United States: SMS "Hello Mandla" to **+1 743 239 2972**
+* Australia: SMS "Hello Mandla" to **+61 483 908 552**
 
-<br/>
+
+To access the Mandla Wallet via WhatsApp send a "Hello Mandla" message to **+27600410476**
 
 
 ## Funding your Mandla Wallet
 
-After successful registration, you need to send XRP to the Mandla Wallet custody account "rBBFeyRk19orSKU8k9JhF1A7KcQgM1dqse" along with your memo (provided during registration).
+After successful registration, you need to send XRP to the Mandla Wallet custody account **rBBFeyRk19orSKU8k9JhF1A7KcQgM1dqse** along with your memo (provided during registration).
 
-Alternatively, refer to the "Get HELP" section in the SMS Wallet Commands for instructions on receiving funds and funding your wallet.
+Alternatively, refer to the "HELP" section in the Wallet menu for instructions on receiving funds and funding your wallet.
 
 <br/>
 
